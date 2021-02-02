@@ -1,4 +1,4 @@
-# AI611 Deep Reinforcement Learninng - KAIST academic year 2019/20 spring semester
+# AI611 Deep Reinforcement Learning - KAIST academic year 2019/20 spring semester
 
 This PhD level course included several basic, intermediate and advanced topics regarding state of the art deep reinforcement learning.
 The course was scheduled in two main parts, the first part covering the basic theory and concepts behind reinforcement learning and deep reinforcement learning, and discussion of basic algorithms, and the second part consisting in a group paper presentation and a final group project consisting in training a deep RL model of choice on the Bubble Bobble game, investigating the generalization and transfer learning capabilities of the trained model on the 100 levels of the game.
